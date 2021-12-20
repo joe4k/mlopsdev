@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "test.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-12-20T18:41:10Z",
+    "created": 1640025670227,
+    "asset_id": "data_asset.testcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "test.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/test.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-12-20T18:41:10Z",
+      "id": "2ef27619-46d7-4a91-809d-123021e68d99",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
